@@ -1,8 +1,11 @@
 {
   "name": "petful-server",
   "scripts": {
-    "dev": "nodemon server"
+    "dev": "nodemon src/server"
   },
+  "engines": {
+       "node": "12.14.0"
+     },
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
