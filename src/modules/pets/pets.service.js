@@ -39,5 +39,9 @@ module.exports = {
     else if(type === 'dogs'){
       animals.dogs.dequeue();
     }
+    else if (type === 'both'){
+      animals.cats.dequeue();
+      animals.dogs.dequeue();
+    }
   }
 };
