@@ -1,9 +1,9 @@
 # Petful Server
-Live: 
+Live: https://petful-project.now.sh/
 
-Client Repo: 
+Client Repo: https://github.com/hsinlinghu1101/Petful-Hsin-client.git
 
-API Repo: 
+API Repo: https://github.com/hsinlinghu1101/Petful-Hsin-server.git
 
 Heroku Link: https://obscure-sierra-79316.herokuapp.com/
 
