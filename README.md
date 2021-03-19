@@ -1,5 +1,5 @@
 # Petful Server
-Live: https://petful-project.now.sh/
+Live: https://petful-nu.vercel.app/
 
 Client Repo: https://github.com/hsinlinghu1101/Petful-Hsin-client.git
 
